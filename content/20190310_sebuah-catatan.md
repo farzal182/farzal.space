@@ -1,9 +1,7 @@
 Title: Sebuah Catatan
 Date: 2019-03-10 10:00
 Category: Tulisan
-Tags: menulis, catatan, motivasi
 Slug: sebuah-catatan
-Authors: Farzal
 Summary: Di tengah perjalanan akan lebih banyak tantangan dan hambatan, bisa saja terjatuh, terguling atau bahkan salah memilih jalur.
 
 Di tengah perjalanan  

@@ -1,9 +1,7 @@
 Title: Setiap Orang Cerdas  
-Date: 2019-10-17 09:00  
-Category: Tulisan  
-Tags: motivasi, pendidikan
+Date: 2019-10-04 09:00  
+Category: Tulisan
 Slug: setiap-orang-cerdas  
-Authors: Farzal  
 Summary: Seorang wanita dan seorang pria berjalan kaki bersama. Panjang langkah kaki wanita itu 3/4 dari panjang langkah teman prianya. Mereka bersama-sama memulai ayunan langkah  
 
 Sebelum membaca, beri jawaban atas pertanyaan berikut ini:
