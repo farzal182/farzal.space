@@ -42,7 +42,7 @@ ASSET_CONFIG = [
     ('versions', False),
 ]
 
-THEME = 'pneumatic'
+THEME = 'kemang'
 THEME_COLOR = '#FF8000'
 GOOGLE_FONTS = 'Oxygen'
 
